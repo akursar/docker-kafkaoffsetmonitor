@@ -18,4 +18,4 @@ For exampple:
     docker run -d \
     -p 8080:8080 \
     -e "ZK_HOSTS=zk1:2181,zk2:2181,zk3:2181/chroot/kafka" \
-    akursar/kafakoffsetmonitor
+    akursar/kafkaoffsetmonitor
